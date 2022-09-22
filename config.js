@@ -5,23 +5,23 @@
 // RECODE BY RANZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285752300654'] 
-global.mods = ['628565337357']
-global.prems = ['6283848959158'] 
+global.owner = ['6283141445553'] 
+global.mods = ['6283141445553']
+global.prems = ['6283141445553'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝚁𝙰𝙲𝙷𝙼𝙰𝚃_𝙾𝚆𝙽𝙴𝚁_𝚁𝙰𝙽𝚉'
-global.numberowner = '6285752300654'
-global.instagram = 'https://instagram.com/alwiiyy__'
-global.github = 'https://github.com/zabux/zxynri-ranz'
-global.dana = '085752300654'
-global.pulsa = '083848959158'
-global.gopay = '08565337357'
+global.nameowner = 'Fadil'
+global.numberowner = '6283141445553'
+global.instagram = ''
+global.github = 'https://github.com/ntahlahx'
+global.dana = '08'
+global.pulsa = '08'
+global.gopay = '08'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/GjWmVkxd3kO4kDjIGldqIe'
-global.web = 'https://github.com/zabux/zxynri-ranz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = '❋ཻུ۪۪⸙LOLI•𝐁𝐎𝐓༽༼𝐙⳹ ❋ཻུ۪۪'
+global.gc = 'https://chat.whatsapp.com/HjcPuNK3NwsH62T6JAGIW6'
+global.web = '' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/alwiiyy__'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 25.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 25.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
